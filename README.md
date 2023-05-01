@@ -1,6 +1,9 @@
-# This folder contains the training and testing methods for the paper *Organization and Opinion Extraction in Public Comments and Legislator Engagement Tracking*
+#*Organization and Opinion Extraction in Public Comments and Legislator Engagement Tracking*
 
+See also the arXiv version of this paper: https://arxiv.org/abs/2109.08855
+This folder contains the training and testing methods for the paper *Organization and Opinion Extraction in Public Comments and Legislator Engagement Tracking*
 This assumes that the data folder is in the same parent folder as code
+In this repository, the "data_set.zip" file contains the content of "data" folder referenced below.
 
 ## Organization Affiliation Tracking
 
